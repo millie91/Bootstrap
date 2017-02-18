@@ -1,0 +1,21 @@
+body {
+	font-size: 62.5%;
+	font-family: arial, sans-serif;
+}
+
+#logo {
+	height: 100px;
+	width: 100px;
+}
+
+#websiteTitle {
+	font-size: 10em;
+	vertical-align: middle;
+	font-family: 'Pacifico', cursive;
+	padding-left: 15px;
+	color: #191970;
+}
+
+#websiteSlogan {
+	font-size: 5.4em;
+}
